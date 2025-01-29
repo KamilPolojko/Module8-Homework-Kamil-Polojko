@@ -22,7 +22,6 @@ iris-classification/
 │   ├── __init__.py
 │   ├── data_processing.py
 │   ├── model.py
-│   └── utils.py
 ├── tests/
 │   ├── __init__.py
 │   ├── test_data_processing.py
